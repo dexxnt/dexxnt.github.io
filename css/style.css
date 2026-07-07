@@ -110,3 +110,37 @@ body {
   color: var(--text-bright);
   text-decoration: underline;
 }
+
+.glitch-title {
+  font-family: var(--font-pixel);
+  font-size: clamp(14px, 4vw, 22px);
+  text-align: center;
+  color: var(--text-bright);
+  margin: 0 0 30px;
+  position: relative;
+  letter-spacing: 2px;
+}
+
+.glitch-title::before,
+.glitch-title::after {
+  content: attr(data-text);
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  opacity: 0;
+}
+
+.glitch-title.glitching::before {
+  color: var(--glitch-magenta);
+  opacity: 0.8;
+  clip-path: inset(0 0 55% 0);
+  transform: translate(-3px, -1px);
+}
+
+.glitch-title.glitching::after {
+  color: var(--glitch-cyan);
+  opacity: 0.8;
+  clip-path: inset(55% 0 0 0);
+  transform: translate(3px, 1px);
+}
