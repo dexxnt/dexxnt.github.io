@@ -66,3 +66,47 @@ body {
   97% { opacity: 0.85; }
   98% { opacity: 1; }
 }
+
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgba(59, 130, 246, 0.4);
+  padding-bottom: 14px;
+  margin-bottom: 24px;
+  position: relative;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-pixel);
+  font-size: 14px;
+  color: var(--text-bright);
+}
+
+.brand-mark {
+  width: 20px;
+  height: 20px;
+  background: var(--accent);
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.social-links {
+  display: flex;
+  gap: 16px;
+}
+
+.social-links a {
+  color: var(--text-dim);
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.social-links a:hover,
+.social-links a:focus-visible {
+  color: var(--text-bright);
+  text-decoration: underline;
+}
