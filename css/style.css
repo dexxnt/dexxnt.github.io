@@ -1,0 +1,30 @@
+:root {
+  --bg-deep: #020617;
+  --bg-glow: #1e3a8a;
+  --accent: #3b82f6;
+  --text-bright: #93c5fd;
+  --text-dim: #7dd3fc;
+  --glitch-magenta: #ff2ea6;
+  --glitch-cyan: #00fff2;
+  --bezel: #d8d3c4;
+  --bar-bg: #dbeafe;
+  --bar-text: #0f172a;
+  --font-pixel: 'Press Start 2P', monospace;
+  --font-mono: 'VT323', monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #000;
+  font-family: var(--font-mono);
+  color: var(--text-bright);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
