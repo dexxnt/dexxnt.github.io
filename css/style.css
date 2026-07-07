@@ -7,7 +7,8 @@
   --glitch-magenta: #ff2ea6;
   --glitch-cyan: #00fff2;
   --bezel: #d8d3c4;
-  --bar-bg: #dbeafe;
+  --text-light: #dbeafe;
+  --bar-bg: var(--text-light);
   --bar-text: #0f172a;
   --font-pixel: 'Press Start 2P', monospace;
   --font-mono: 'VT323', monospace;
@@ -181,7 +182,7 @@ body {
 .speech-text {
   margin: 0;
   font-size: 20px;
-  color: #dbeafe;
+  color: var(--text-light);
 }
 
 .status-block {
