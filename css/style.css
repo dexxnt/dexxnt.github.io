@@ -230,3 +230,55 @@ body {
   box-shadow: 0 0 12px var(--accent);
   background: rgba(59, 130, 246, 0.1);
 }
+
+.boot-screen {
+  position: fixed;
+  inset: 0;
+  background: #000;
+  color: #4ade80;
+  font-family: var(--font-mono);
+  font-size: 22px;
+  padding: 40px;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.boot-text {
+  white-space: pre-wrap;
+  margin: 0;
+  font-family: var(--font-mono);
+}
+
+.boot-cursor {
+  display: inline-block;
+  animation: blink 1s step-end infinite;
+  width: 12px;
+}
+
+.boot-skip {
+  margin-top: auto;
+  opacity: 0.5;
+  font-size: 16px;
+}
+
+.boot-screen.hidden {
+  display: none;
+}
+
+.boot-screen.glitching-out {
+  animation: boot-glitch-out 0.4s steps(2, end) 2;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+
+@keyframes boot-glitch-out {
+  0% { transform: translate(0); filter: none; }
+  25% { transform: translate(-6px, 2px); filter: hue-rotate(90deg); }
+  50% { transform: translate(6px, -2px); filter: hue-rotate(-90deg); }
+  75% { transform: translate(-3px, 0); filter: none; }
+  100% { transform: translate(0); opacity: 0; }
+}

@@ -10,6 +10,12 @@
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
+  <div id="boot-screen" class="boot-screen">
+    <pre id="boot-text" class="boot-text"></pre>
+    <span class="boot-cursor">_</span>
+    <p class="boot-skip">Pulsa cualquier tecla o haz click para omitir</p>
+  </div>
+
   <main class="crt-frame">
     <div class="crt-screen">
       <div class="scanlines"></div>
@@ -53,6 +59,7 @@
     </div>
   </main>
 
+  <script src="js/boot.js"></script>
   <script src="js/glitch.js"></script>
 </body>
 </html>
