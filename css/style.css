@@ -195,3 +195,15 @@ body {
 .status-block p {
   margin: 0;
 }
+
+.file-bar {
+  background: var(--bar-bg);
+  color: var(--bar-text);
+  font-family: var(--font-mono);
+  font-size: 14px;
+  padding: 6px 12px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 2px;
+  margin-bottom: 22px;
+}
