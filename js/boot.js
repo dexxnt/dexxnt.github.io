@@ -27,7 +27,7 @@
     bootScreen.classList.add('glitching-out');
     window.setTimeout(function () {
       bootScreen.classList.add('hidden');
-    }, 400);
+    }, 800);
   }
 
   function skipBoot() {
