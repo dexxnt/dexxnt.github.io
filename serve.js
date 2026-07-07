@@ -17,13 +17,19 @@ const MIME_TYPES = {
 
 const server = http.createServer((req, res) => {
   const urlPath = decodeURIComponent(req.url.split('?')[0]);
-  const safePath = path
-    .normalize(urlPath === '/' ? '/index.html' : urlPath)
-    .replace(/^(\.\.[/\\])+/, '');
-  const filePath = path.join(ROOT, safePath);
-  const ext = path.extname(filePath);
+  const requestedPath = urlPath === '/' ? '/index.html' : urlPath;
+  const filePath = path.join(ROOT, requestedPath);
+  const resolved = path.resolve(filePath);
 
-  fs.readFile(filePath, (err, data) => {
+  if (resolved !== ROOT && !resolved.startsWith(ROOT + path.sep)) {
+    res.writeHead(403);
+    res.end('Forbidden');
+    return;
+  }
+
+  const ext = path.extname(resolved);
+
+  fs.readFile(resolved, (err, data) => {
     if (err) {
       res.writeHead(404);
       res.end('Not found');
