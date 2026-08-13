@@ -1,0 +1,21 @@
+# Tus juegos, uno por línea, con este formato:
+#
+#     Nombre | Plataforma | imagen
+#
+# La imagen es opcional: sin ella sale un ícono de mando.
+# Guárdalas en img/games/. El orden de este archivo es el orden en pantalla.
+#
+# La plataforma acepta texto libre. Tienen ícono propio PC, Steam,
+# PlayStation (PS1..PS5), PS Vita, Xbox, Android, iOS, Mac e itch.io;
+# cualquier otra cosa sale con un mando genérico.
+
+Red Dead Redemption 2 | PS5 | img/games/red-dead-redemption-2.jpg
+Cyberpunk 2077 | PC | img/games/cyberpunk-2077.jpg
+Baldur's Gate 3 | PC | img/games/baldurs-gate-3.jpg
+Death Stranding 2 | PS5 | img/games/death-stranding-2.jpg
+Metal Gear Solid 3 | PS2 | img/games/metal-gear-solid-3.jpg
+The Binding of Isaac | PC | img/games/isaac.jpg
+Persona 3 Reload | PC | img/games/persona-3-reload.jpg
+Persona 3 Portable | PS Vita | img/games/persona-3-portable.jpg
+Dragon Ball Budokai Tenkaichi 3 | PS2 y PCSX2 | img/games/dragon-ball-budokai-tenkaichi-3.jpg
+Celeste | PC | img/games/celeste.jpg

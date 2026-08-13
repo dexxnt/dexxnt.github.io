@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>dexxnt | Sobre mi :o</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  <link rel="stylesheet" href="css/style.css?v=1.3" />
+</head>
+
+<body>
+  <div class="frame-overlay"></div>
+
+  <main class="crt-frame">
+    <div class="crt-screen">
+      <div class="scanlines"></div>
+
+      <header class="site-header">
+        <div class="brand">
+          <span class="brand-mark"></span>
+          <span class="brand-name">dexxnt</span>
+        </div>
+        <nav class="social-links">
+          <a href="https://github.com/dexxnt" target="_blank" rel="noopener" title="GitHub"><i class="fa-brands fa-github"></i></a>
+          <a href="https://www.instagram.com/dexxnt/" target="_blank" rel="noopener" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
+        </nav>
+      </header>
+
+      <h1 class="glitch-title" data-text="Sobre mi :3">Sobre mi:o</h1>
+
+      <div class="about-container">
+        <!-- Text on the left -->
+        <div class="about-content">
+          <!-- Vertical Mini Menu -->
+          <div class="about-vertical-menu">
+            <button class="menu-btn active" onclick="showTab('presentation', this)"><i
+                class="fa-regular fa-file-lines"></i></button>
+            <button class="menu-btn" onclick="showTab('tools', this)"><i
+                class="fa-regular fa-window-maximize"></i></button>
+            <button class="menu-btn" onclick="showTab('apps', this)"><i class="fa-solid fa-border-all"></i></button>
+            <button class="menu-btn" onclick="showTab('inventory', this)"><i
+                class="fa-solid fa-floppy-disk"></i></button>
+            <button class="menu-btn" onclick="showTab('pc', this)"><i class="fa-solid fa-desktop"></i></button>
+          </div>
+
+          <div class="about-text-container">
+            <!-- TAB 1: Presentation -->
+            <div id="tab-presentation" class="tab-content">
+              <div class="about-header">
+                Presentation
+              </div>
+              <div class="about-text-body">
+                <p>Yoo, me llamo dexxx, soy Chileno y actualmente cuento con 20 años, poseo el titulo de Analista en
+                  programación y bueno soy bastante apasionado por la tecnología y la informática.</p>
+                <p>Siempre me gusto investigar el como funcionaban las cosas y ver si podía darle mi propio estilo o
+                  hacer
+                  algo desde 0 directamente JKSDKJ, para tener 20 años e tenido bastante exp en distintos ámbitos, no
+                  soy
+                  experto en nada pero me gusta poder saber hacer cosas.</p>
+                <p>También me gusta mucho la musica aunque si soy algo quisquilloso en ese sentido sjkdkj.....</p>
+              </div>
+            </div>
+
+            <!-- TAB 2: Tools -->
+            <div id="tab-tools" class="tab-content" style="display: none;">
+              <div class="about-header">
+                Tools
+              </div>
+              <div class="about-text-body tools-body">
+                <fieldset class="tool-group">
+                  <legend>-Langs-</legend>
+                  <div class="tool-icons">
+                    <i class="devicon-rust-plain colored" onclick="showTool(this, 'rust')"></i>
+                    <i class="devicon-c-plain colored" onclick="showTool(this, 'c')"></i>
+                    <i class="devicon-typescript-plain colored" onclick="showTool(this, 'typescript')"></i>
+                    <i class="devicon-javascript-plain colored" onclick="showTool(this, 'javascript')"></i>
+                    <i class="devicon-python-plain colored" onclick="showTool(this, 'python')"></i>
+                    <i class="devicon-java-plain colored" onclick="showTool(this, 'java')"></i>
+                    <i class="devicon-php-plain colored" onclick="showTool(this, 'php')"></i>
+                    <i class="devicon-bash-plain colored" onclick="showTool(this, 'bash')"></i>
+                  </div>
+                </fieldset>
+
+                <fieldset class="tool-group">
+                  <legend>-Libs / Frameworks-</legend>
+                  <div class="tool-icons">
+                    <i class="devicon-vuejs-plain colored" onclick="showTool(this, 'vuejs')"></i>
+                    <i class="devicon-angularjs-plain colored" onclick="showTool(this, 'angularjs')"></i>
+                    <i class="devicon-nextjs-original" style="filter: invert(1);"
+                      onclick="showTool(this, 'nextjs')"></i>
+                    <i class="devicon-react-original colored" onclick="showTool(this, 'react')"></i>
+                    <i class="devicon-bootstrap-plain colored" onclick="showTool(this, 'bootstrap')"></i>
+                    <i class="devicon-laravel-plain colored" onclick="showTool(this, 'laravel')"></i>
+                  </div>
+                </fieldset>
+
+                <fieldset class="tool-group">
+                  <legend>-DBs-</legend>
+                  <div class="tool-icons">
+                    <i class="devicon-mysql-plain colored" onclick="showTool(this, 'mysql')"></i>
+                    <i class="devicon-postgresql-plain colored" onclick="showTool(this, 'postgresql')"></i>
+                    <i class="devicon-mongodb-plain colored" onclick="showTool(this, 'mongodb')"></i>
+                    <i class="devicon-azuresqldatabase-plain colored" onclick="showTool(this, 'azuresqldatabase')"></i>
+                  </div>
+                </fieldset>
+
+                <fieldset class="tool-group">
+                  <legend>-Tools-</legend>
+                  <div class="tool-icons">
+                    <i class="devicon-nodejs-plain colored" onclick="showTool(this, 'nodejs')"></i>
+                    <i class="devicon-apache-plain colored" onclick="showTool(this, 'apache')"></i>
+                    <i class="devicon-docker-plain colored" onclick="showTool(this, 'docker')"></i>
+                    <i class="devicon-git-plain colored" onclick="showTool(this, 'git')"></i>
+                  </div>
+                </fieldset>
+              </div>
+            </div>
+
+            <!-- TAB 3: Apps (Windows 7 Explorer Style) -->
+            <div id="tab-apps" class="tab-content" style="display: none;">
+              <div class="about-header">
+                Apps
+              </div>
+              <div class="about-text-body apps-body">
+                <div class="win7-explorer">
+                  <!-- App 1: VSCodium -->
+                  <div class="win7-shortcut" onclick="showApp(this, 'vscodium')">
+                    <div class="icon-wrapper">
+                      <img src="img/logos/vscodium-icon.png" alt="VSCodium" />
+                      <i class="fa-solid fa-share shortcut-arrow"></i>
+                    </div>
+                    <span class="app-name">VSCodium</span>
+                  </div>
+                  <!-- App 2: Neovim -->
+                  <div class="win7-shortcut" onclick="showApp(this, 'neovim')">
+                    <div class="icon-wrapper">
+                      <img src="img/logos/neovim.png" alt="Neovim" />
+                      <i class="fa-solid fa-share shortcut-arrow"></i>
+                    </div>
+                    <span class="app-name">Neovim</span>
+                  </div>
+                  <!-- App 3: Obsidian -->
+                  <div class="win7-shortcut" onclick="showApp(this, 'obsidian')">
+                    <div class="icon-wrapper">
+                      <img src="img/logos/obsidian-logosvg.png" alt="Obsidian" />
+                      <i class="fa-solid fa-share shortcut-arrow"></i>
+                    </div>
+                    <span class="app-name">Obsidian</span>
+                  </div>
+                  <!-- App 4: Spotify -->
+                  <div class="win7-shortcut" onclick="showApp(this, 'spotify')">
+                    <div class="icon-wrapper">
+                      <img src="img/logos/spotify-icon.png" alt="Spotify" />
+                      <i class="fa-solid fa-share shortcut-arrow"></i>
+                    </div>
+                    <span class="app-name">Spotify</span>
+                  </div>
+                  <!-- App 5: Laragon -->
+                  <div class="win7-shortcut" onclick="showApp(this, 'laragon')">
+                    <div class="icon-wrapper">
+                      <img src="img/logos/laragon-seeklogo.png" alt="Laragon" />
+                      <i class="fa-solid fa-share shortcut-arrow"></i>
+                    </div>
+                    <span class="app-name">Laragon</span>
+                  </div>
+                  <!-- App 6: DBeaver -->
+                  <div class="win7-shortcut" onclick="showApp(this, 'dbeaver')">
+                    <div class="icon-wrapper">
+                      <img src="img/logos/dbeaver-head.png" alt="DBeaver" />
+                      <i class="fa-solid fa-share shortcut-arrow"></i>
+                    </div>
+                    <span class="app-name">DBeaver</span>
+                  </div>
+                  <!-- App 7: FileZilla -->
+                  <div class="win7-shortcut" onclick="showApp(this, 'filezilla')">
+                    <div class="icon-wrapper">
+                      <img src="img/logos/FileZilla-Client-64-bit.png" alt="FileZilla" />
+                      <i class="fa-solid fa-share shortcut-arrow"></i>
+                    </div>
+                    <span class="app-name">FileZilla</span>
+                  </div>
+                  <!-- App 8: Hyper -->
+                  <div class="win7-shortcut" onclick="showApp(this, 'hyper')">
+                    <div class="icon-wrapper">
+                      <img src="img/logos/hyper-logo-png_seeklogo-323874.png" alt="Hyper" />
+                      <i class="fa-solid fa-share shortcut-arrow"></i>
+                    </div>
+                    <span class="app-name">Hyper</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- TAB 4: Inventory (RPG Style) -->
+            <div id="tab-inventory" class="tab-content" style="display: none;">
+              <div class="about-header">
+                Inventory
+              </div>
+              <div class="about-text-body" style="padding: 0;">
+                <div class="rpg-inventory">
+                  <div class="inv-slot rarity-epic" onclick="showInventory(this, 'mouse')">
+                    <span class="slot-badge">Lv.40</span>
+                    <img src="img/inventory/Mouse Gamer Logitech G305 Inalambrico.png" alt="Logitech G305" />
+                    <span class="slot-name">G305</span>
+                  </div>
+                  <div class="inv-slot rarity-legendary" onclick="showInventory(this, 'airpods')">
+                    <span class="slot-badge">Lv.99</span>
+                    <img src="img/inventory/airpods-pro-2.png" alt="AirPods Pro 2" />
+                    <span class="slot-name">AirPods</span>
+                  </div>
+                  <div class="inv-slot rarity-epic" onclick="showInventory(this, 'keyboard')">
+                    <span class="slot-badge">Lv.60</span>
+                    <img src="img/inventory/hyperx-origins-60.png" alt="HyperX Origins 60" />
+                    <span class="slot-name">HyperX</span>
+                  </div>
+                  <div class="inv-slot rarity-legendary" onclick="showInventory(this, 'iphone')">
+                    <span class="slot-badge">Lv.15</span>
+                    <img src="img/inventory/iphone-15-pro.webp" alt="iPhone 15 Pro" />
+                    <span class="slot-name">iPhone</span>
+                  </div>
+                  <div class="inv-slot rarity-rare" onclick="showInventory(this, 'tornamesa')">
+                    <span class="slot-badge">Lv.80</span>
+                    <img src="img/inventory/tornamesa-audio-technica-at-lp60x.webp" alt="Tornamesa" />
+                    <span class="slot-name">AT-LP60X</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- TAB 5: PC / Workspace -->
+            <div id="tab-pc" class="tab-content" style="display: none;">
+              <div class="about-header">
+                Workspace
+              </div>
+              <div class="about-text-body pc-body">
+                <div class="machine">
+                  <div class="machine-label">&gt; Escritorio</div>
+                  <div class="workspace-img-container">
+                    <img src="img/pc.png" alt="PC de escritorio" />
+                  </div>
+                  <div class="workspace-specs-wrapper">
+                    <ul class="workspace-specs">
+                      <li><span>Gabinete</span> <span>: MSI GUNGNIR 110R</span></li>
+                      <li><span>CPU</span> <span>: i3 9100f</span></li>
+                      <li><span>GPU</span> <span>: RTX 3070 TI</span></li>
+                      <li><span>RAM</span> <span>: 16GB</span></li>
+                      <li><span>OS</span> <span>: Windows 11</span></li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="workspace-divider">
+                  <span>◆</span>
+                </div>
+
+                <div class="machine">
+                  <div class="machine-label">&gt; Notebook</div>
+                  <div class="workspace-img-container">
+                    <img src="img/macbook.png" alt="MacBook Pro" />
+                  </div>
+                  <div class="workspace-specs-wrapper">
+                    <ul class="workspace-specs">
+                      <li><span>Modelo</span> <span>: MacBook Pro 15&quot; 2019</span></li>
+                      <li><span>CPU</span> <span>: i7 2.6GHz 6-core</span></li>
+                      <li><span>GPU</span> <span>: Intel UHD 630</span></li>
+                      <li><span>RAM</span> <span>: 32GB DDR4</span></li>
+                      <li><span>SSD</span> <span>: 500GB</span></li>
+                      <li><span>Extras</span> <span>: Touch Bar</span></li>
+                      <li><span>OS</span> <span>: macOS Sequoia</span></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Image and stats on the right -->
+        <aside class="about-sidebar">
+          <div class="about-image-wrapper">
+            <img src="img/chao-about.gif" alt="dexxnt avatar animado" />
+          </div>
+          <ul class="about-stats">
+            <li><span>PseudoN</span> <span>: dexxx</span></li>
+            <li><span>Nivel</span> <span>: 20</span></li>
+            <li><span>Clase</span> <span>: Dev</span></li>
+            <li><span>HP</span> <span>: ???</span></li>
+            <li><span>Maná</span> <span>: ???</span></li>
+            <li><span>Rango</span> <span>: 01</span></li>
+          </ul>
+        </aside>
+      </div>
+
+      <!-- Filesystem Navigation -->
+      <nav class="filesystem-nav" id="fs-nav">
+        <div class="fs-header">
+          <span>Filesystem</span>
+          <button class="fs-toggle" id="fs-toggle" title="Toggle Menu"><i class="fa-solid fa-bars"></i></button>
+        </div>
+        <div class="fs-links">
+          <a href="index.html"><i class="fa-solid fa-house"></i> Inicio</a>
+          <a href="about.html" class="active"><i class="fa-solid fa-ghost"></i> Sobre mi</a>
+          <a href="musica.html"><i class="fa-solid fa-music"></i> Música</a>
+          <a href="juegos.html"><i class="fa-solid fa-gamepad"></i> Jueguitos</a>
+          <a href="proyectos.html"><i class="fa-solid fa-address-book"></i> Proyectos</a>
+          <a href="contacto.html"><i class="fa-solid fa-envelope"></i> Contacto</a>
+        </div>
+      </nav>
+
+    </div>
+  </main>
+
+  <script src="js/glitch.js"></script>
+  <script>
+    const fsNav = document.getElementById('fs-nav');
+    const fsToggle = document.getElementById('fs-toggle');
+    fsToggle.addEventListener('click', () => {
+      fsNav.classList.toggle('collapsed');
+    });
+
+    const defaultStatsHTML = `
+      <li><span>PseudoN</span> <span>: dexxx</span></li>
+      <li><span>Nivel</span> <span>: 20</span></li>
+      <li><span>Clase</span> <span>: Dev</span></li>
+      <li><span>HP</span> <span>: ???</span></li>
+      <li><span>Maná</span> <span>: ???</span></li>
+      <li><span>Rango</span> <span>: 01</span></li>
+    `;
+
+    const toolsInfo = {
+      'rust': { name: 'Rust', type: 'Lenguaje', exp: 'Aprendiendo', desc: 'Memory safe, blazingly fast' },
+      'c': { name: 'C', type: 'Lenguaje', exp: 'Intermedio', desc: 'Control a bajo nivel' },
+      'typescript': { name: 'TypeScript', type: 'Lenguaje', exp: 'Avanzado', desc: 'JS con superpoderes' },
+      'javascript': { name: 'JavaScript', type: 'Lenguaje', exp: 'Avanzado', desc: 'El rey de la web' },
+      'python': { name: 'Python', type: 'Lenguaje', exp: 'Avanzado', desc: 'Scripts, Data & IA' },
+      'java': { name: 'Java', type: 'Lenguaje', exp: 'Intermedio', desc: 'Enterprise robusto' },
+      'php': { name: 'PHP', type: 'Lenguaje', exp: 'Avanzado', desc: 'Backend web clásico' },
+      'bash': { name: 'Bash', type: 'Lenguaje', exp: 'Aprendiendo', desc: 'Automatización' },
+
+      'vuejs': { name: 'Vue.js', type: 'Framework', exp: 'Aprendiendo', desc: 'Progresivo y versátil' },
+      'angularjs': { name: 'Angular', type: 'Framework', exp: 'Básico', desc: 'SPA robustas' },
+      'nextjs': { name: 'Next.js', type: 'Framework', exp: 'Avanzado', desc: 'React Server Side' },
+      'react': { name: 'React', type: 'Framework', exp: 'Avanzado', desc: 'UI interactiva' },
+      'bootstrap': { name: 'Bootstrap', type: 'Librería', exp: 'Avanzado', desc: 'Grillas rápidas' },
+      'laravel': { name: 'Laravel', type: 'Framework', exp: 'Avanzado', desc: 'El framework para artesanos web' },
+
+      'mysql': { name: 'MySQL', type: 'Base Datos', exp: 'Avanzado', desc: 'Relacional clásico' },
+      'postgresql': { name: 'PostgreSQL', type: 'Base Datos', exp: 'Básico', desc: 'Relacional avanzado' },
+      'mongodb': { name: 'MongoDB', type: 'Base Datos', exp: 'Avanzado', desc: 'NoSQL escalable' },
+      'azuresqldatabase': { name: 'Azure SQL', type: 'Base Datos', exp: 'Aprendiendo', desc: 'Cloud database' },
+
+      'nodejs': { name: 'Node.js', type: 'Entorno', exp: 'Avanzado', desc: 'JS en el backend' },
+      'apache': { name: 'Apache', type: 'Servidor', exp: 'Intermedio', desc: 'Web hosting' },
+      'docker': { name: 'Docker', type: 'Herramienta', exp: 'Aprendiendo', desc: 'Contenedores mágicos' },
+      'git': { name: 'Git', type: 'Herramienta', exp: 'Avanzado', desc: 'Control de versiones' }
+    };
+
+    const appsInfo = {
+      'vscodium': { name: 'VSCodium', type: 'App', exp: 'Editor', desc: 'Editor de código libre', icon: '<img src="img/logos/vscodium-icon.png" style="height: 96px; display: inline-block; image-rendering: auto;" />' },
+      'neovim': { name: 'Neovim', type: 'App', exp: 'Editor', desc: 'Edición rápida en terminal', icon: '<img src="img/logos/neovim.png" style="height: 96px; display: inline-block; image-rendering: auto;" />' },
+      'obsidian': { name: 'Obsidian', type: 'App', exp: 'Notas', desc: 'Cerebro digital en Markdown', icon: '<img src="img/logos/obsidian-logosvg.png" style="height: 96px; display: inline-block; image-rendering: auto;" />' },
+      'spotify': { name: 'Spotify', type: 'App', exp: 'Música', desc: 'Reproductor de audio', icon: '<img src="img/logos/spotify-icon.png" style="height: 96px; display: inline-block; image-rendering: auto;" />' },
+      'laragon': { name: 'Laragon', type: 'App', exp: 'Servidor', desc: 'Entorno de desarrollo local', icon: '<img src="img/logos/laragon-seeklogo.png" style="height: 96px; display: inline-block; image-rendering: auto;" />' },
+      'dbeaver': { name: 'DBeaver', type: 'App', exp: 'DB Manager', desc: 'Gestor universal de BD', icon: '<img src="img/logos/dbeaver-head.png" style="height: 96px; display: inline-block; image-rendering: auto;" />' },
+      'filezilla': { name: 'FileZilla', type: 'App', exp: 'FTP', desc: 'Cliente FTP', icon: '<img src="img/logos/FileZilla-Client-64-bit.png" style="height: 96px; display: inline-block; image-rendering: auto;" />' },
+      'hyper': { name: 'Hyper', type: 'App', exp: 'Terminal', desc: 'Terminal moderno con JS/CSS', icon: '<img src="img/logos/hyper-logo-png_seeklogo-323874.png" style="height: 96px; display: inline-block; image-rendering: auto;" />' }
+    };
+
+    const inventoryInfo = {
+      'mouse': { name: 'Logitech G305', type: 'Periférico', exp: 'Épico', desc: 'Precisión inalámbrica', img: 'Mouse Gamer Logitech G305 Inalambrico.png', color: '#a855f7' },
+      'airpods': { name: 'AirPods Pro 2', type: 'Audio', exp: 'Legendario', desc: 'Cancelación de ruido activa', img: 'airpods-pro-2.png', color: '#eab308' },
+      'keyboard': { name: 'HyperX Origins 60', type: 'Periférico', exp: 'Épico', desc: 'Teclado mecánico 60%', img: 'hyperx-origins-60.png', color: '#a855f7' },
+      'iphone': { name: 'iPhone 15 Pro', type: 'Smartphone', exp: 'Legendario', desc: 'Cámara y rendimiento', img: 'iphone-15-pro.webp', color: '#eab308' },
+      'tornamesa': { name: 'Audio-Technica', type: 'Audio', exp: 'Raro', desc: 'AT-LP60X para vinilos', img: 'tornamesa-audio-technica-at-lp60x.webp', color: '#3b82f6' }
+    };
+
+    function showTab(tabId, btn) {
+      // Hide all tabs
+      document.querySelectorAll('.tab-content').forEach(tab => {
+        tab.style.display = 'none';
+      });
+      // Show selected tab
+      document.getElementById('tab-' + tabId).style.display = 'block';
+
+      // Update active state on buttons
+      document.querySelectorAll('.menu-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+
+      if (tabId === 'presentation' || tabId === 'pc') {
+        const wrapper = document.querySelector('.about-image-wrapper');
+        wrapper.innerHTML = `<img src="img/chao-about.gif" alt="dexxnt avatar animado" />`;
+        document.querySelector('.about-stats').innerHTML = defaultStatsHTML;
+
+        // Remove active tool class
+        document.querySelectorAll('.tool-icons i, .win7-shortcut, .inv-slot').forEach(el => el.classList.remove('selected-tool', 'selected-app', 'selected-inv'));
+      }
+    }
+
+    function showTool(element, toolId) {
+      const sidebarStats = document.querySelector('.about-stats');
+      const wrapper = document.querySelector('.about-image-wrapper');
+
+      // Highlight selected icon
+      document.querySelectorAll('.tool-icons i, .win7-shortcut, .inv-slot').forEach(el => el.classList.remove('selected-tool', 'selected-app', 'selected-inv'));
+      element.classList.add('selected-tool');
+
+      if (toolId && toolsInfo[toolId]) {
+        const info = toolsInfo[toolId];
+
+        // Remove selected-tool class from the copy so it doesn't break the animation with !important transform
+        const baseClass = element.className.replace('selected-tool', '').trim();
+
+        // Replace image with big icon, adding display: inline-block for transforms to work
+        wrapper.innerHTML = `<i class="${baseClass}" style="font-size: 96px; display: inline-block; line-height: 1; filter: ${element.style.filter || 'none'}"></i>`;
+
+        sidebarStats.innerHTML = `
+          <li><span>Nombre</span> <span>: ${info.name}</span></li>
+          <li><span>Tipo</span> <span>: ${info.type}</span></li>
+          <li><span>Nivel</span> <span>: ${info.exp}</span></li>
+          <li style="margin-top: 12px; justify-content: center; color: var(--text-dim); text-align: center;">${info.desc}</li>
+        `;
+      }
+    }
+
+    function showApp(element, appId) {
+      const sidebarStats = document.querySelector('.about-stats');
+      const wrapper = document.querySelector('.about-image-wrapper');
+
+      // Highlight selected app
+      document.querySelectorAll('.tool-icons i, .win7-shortcut, .inv-slot').forEach(el => el.classList.remove('selected-tool', 'selected-app', 'selected-inv'));
+      element.classList.add('selected-app');
+
+      if (appId && appsInfo[appId]) {
+        const info = appsInfo[appId];
+
+        wrapper.innerHTML = info.icon;
+
+        sidebarStats.innerHTML = `
+          <li><span>Nombre</span> <span>: ${info.name}</span></li>
+          <li><span>Tipo</span> <span>: ${info.type}</span></li>
+          <li><span>Uso</span> <span>: ${info.exp}</span></li>
+          <li style="margin-top: 12px; justify-content: center; color: var(--text-dim); text-align: center;">${info.desc}</li>
+        `;
+      }
+    }
+
+    function showInventory(element, invId) {
+      const sidebarStats = document.querySelector('.about-stats');
+      const wrapper = document.querySelector('.about-image-wrapper');
+
+      // Highlight selected inventory slot
+      document.querySelectorAll('.tool-icons i, .win7-shortcut, .inv-slot').forEach(el => el.classList.remove('selected-tool', 'selected-app', 'selected-inv'));
+      element.classList.add('selected-inv');
+
+      if (invId && inventoryInfo[invId]) {
+        const info = inventoryInfo[invId];
+
+        // Big item picture
+        wrapper.innerHTML = `<img src="img/inventory/${info.img}" style="max-height: 110px; object-fit: contain; filter: drop-shadow(0 0 10px ${info.color});" />`;
+
+        sidebarStats.innerHTML = `
+          <li><span>Nombre</span> <span>: ${info.name}</span></li>
+          <li><span>Tipo</span> <span>: ${info.type}</span></li>
+          <li><span>Rareza</span> <span style="color: ${info.color}; text-shadow: 0 0 8px ${info.color}; font-weight: bold;">: ${info.exp}</span></li>
+          <li style="margin-top: 12px; justify-content: center; color: var(--text-dim); text-align: center;">${info.desc}</li>
+        `;
+      }
+    }
+  </script>
+</body>
+
+</html>

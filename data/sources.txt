@@ -1,0 +1,9 @@
+# Playlists a sincronizar: una URL de Spotify por línea.
+# Las líneas que empiezan con # se ignoran.
+#
+# Cada playlist tiene que estar en PÚBLICO, si no la API responde 404.
+# El nombre y la descripción se toman de Spotify: para cambiarlos,
+# edítalos allá y vuelve a correr `node scripts/sync-music.js`.
+
+https://open.spotify.com/playlist/69Vk6bGzzumfuYanfW2A5P
+https://open.spotify.com/playlist/7aaxNcUYXWImTpH4TEQNaV

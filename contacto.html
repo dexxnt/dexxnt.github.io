@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>dexxnt | Contacto</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <link rel="stylesheet" href="css/style.css?v=1.3" />
+</head>
+<body>
+  <div class="frame-overlay"></div>
+
+  <main class="crt-frame">
+    <div class="crt-screen">
+      <div class="scanlines"></div>
+
+      <header class="site-header">
+        <div class="brand">
+          <span class="brand-mark"></span>
+          <span class="brand-name">dexxnt</span>
+        </div>
+        <nav class="social-links">
+          <a href="https://github.com/dexxnt" target="_blank" rel="noopener" title="GitHub"><i class="fa-brands fa-github"></i></a>
+          <a href="https://www.instagram.com/dexxnt/" target="_blank" rel="noopener" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
+        </nav>
+      </header>
+
+      <h1 class="glitch-title" data-text="Contacto">Contacto</h1>
+
+      <div class="contact-divider">
+        <span class="contact-diamond"></span>
+      </div>
+
+      <div class="contact-container">
+        <a href="mailto:benjaminbravo2401@gmail.com" class="contact-card">
+          <div class="contact-icon">
+            <i class="fa-solid fa-envelope"></i>
+          </div>
+          <div class="contact-info">
+            <div class="contact-type">Email</div>
+            <div class="contact-value">benjaminbravo2401@gmail.com</div>
+          </div>
+        </a>
+      </div>
+
+      <div class="file-bar" style="margin-top: auto;">
+        <span>contacto.md</span>
+        <span>1,1&nbsp;&nbsp;&nbsp;All</span>
+      </div>
+
+      <!-- Filesystem Navigation -->
+      <nav class="filesystem-nav" id="fs-nav">
+        <div class="fs-header">
+          <span>Filesystem</span>
+          <button class="fs-toggle" id="fs-toggle" title="Toggle Menu"><i class="fa-solid fa-bars"></i></button>
+        </div>
+        <div class="fs-links">
+          <a href="index.html"><i class="fa-solid fa-house"></i> Inicio</a>
+          <a href="about.html"><i class="fa-solid fa-ghost"></i> Sobre mi</a>
+          <a href="musica.html"><i class="fa-solid fa-music"></i> Música</a>
+          <a href="juegos.html"><i class="fa-solid fa-gamepad"></i> Jueguitos</a>
+          <a href="proyectos.html"><i class="fa-solid fa-address-book"></i> Proyectos</a>
+          <a href="contacto.html" class="active"><i class="fa-solid fa-envelope"></i> Contacto</a>
+        </div>
+      </nav>
+    </div>
+  </main>
+
+  <script src="js/glitch.js"></script>
+  <script>
+    const fsNav = document.getElementById('fs-nav');
+    const fsToggle = document.getElementById('fs-toggle');
+    if(fsToggle) {
+      fsToggle.addEventListener('click', () => {
+        fsNav.classList.toggle('collapsed');
+      });
+    }
+  </script>
+</body>
+</html>

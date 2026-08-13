@@ -1,1 +1,4 @@
 .superpowers/
+
+# credenciales locales
+.env

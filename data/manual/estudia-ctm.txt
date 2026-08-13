@@ -1,0 +1,314 @@
+# nombre: Estudia ctm
+# descripcion:
+# url: https://open.spotify.com/playlist/7aaxNcUYXWImTpH4TEQNaV
+# cover: img/music/estudia-ctm.jpg
+# orden: 2
+
+# ---------------------------------------------------------------------------
+# Escribe abajo una canción por línea, con el formato:
+#
+#     Título - Artista
+#
+# Cuando termines:  node scripts/build-music.js
+# ---------------------------------------------------------------------------
+
+Sick Sad Little World - Incubus | https://open.spotify.com/track/5ZGvp3Xs6ntoE3rHElLopf | https://i.scdn.co/image/ab67616d00001e02f485a27298fbd17d868f7565
+Someday - The Strokes | https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT | https://i.scdn.co/image/ab67616d00001e02a388a3f20d1bf2123249cc79
+BURN - ¥$, Kanye West, Ty Dolla $ign | https://open.spotify.com/track/7BPadP3q9qwMkho3IMPU99 | https://i.scdn.co/image/ab67616d00001e029c654f315df05ae7c6ec8980
+5 Dollar Pony Rides - Mac Miller | https://open.spotify.com/track/1xKGnsdKOh8jx8pzSZAgXE | https://i.scdn.co/image/ab67616d00001e027541018cfe436a0330fd919a
+Gorgeous - Kanye West, Kid Cudi, Raekwon | https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2 | https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f
+POWER - Kanye West | https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc | https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f
+Runaway - Kanye West, Pusha T | https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds | https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f
+Blues de Cris - Pescado Rabioso | https://open.spotify.com/track/7aTrE9dlJFI4nxoj7QbX2F | https://i.scdn.co/image/ab67616d00001e02caffd78ca8efc41dfd7bca5b
+De Hacerse Se Va a Hacer - Los Tres | https://open.spotify.com/track/5zGmU60PzZDBEzbZyKfDUt | https://i.scdn.co/image/ab67616d00001e0266edc1d892cd7f7374c14323
+Jarabe para la Tos - Los Tres | https://open.spotify.com/track/1mZKyUZlcLd0zx8aF0Vu32 | https://i.scdn.co/image/ab67616d00001e0266edc1d892cd7f7374c14323
+Sappy - Nirvana | https://open.spotify.com/track/7tUtvGeKB2V5W5ms6uBlyC | https://i.scdn.co/image/ab67616d00001e023a95d96086fa3571727707d1
+Serve The Servants - Nirvana | https://open.spotify.com/track/3w5Ekq9O8g0gGFEsT77Ydi | https://i.scdn.co/image/ab67616d00001e02c4f52ef8782f0e8ede4c1aaf
+Very Ape - Nirvana | https://open.spotify.com/track/0hUit24g1EIoATdKYWUiRj | https://i.scdn.co/image/ab67616d00001e02c4f52ef8782f0e8ede4c1aaf
+Negative Creep - Nirvana | https://open.spotify.com/track/5IeTFRymTDiza7DciBD1Gk | https://i.scdn.co/image/ab67616d00001e0297507fd22fb690cb9085a864
+Blew - Live & Loud - Nirvana | https://open.spotify.com/track/48QQppNx4bQOaBwEEICLAX | https://i.scdn.co/image/ab67616d00001e02b74f766214d58b11d076c447
+On A Plain - Live - Nirvana | https://open.spotify.com/track/2RyiGdY33PR4aCTUolEhk7 | https://i.scdn.co/image/ab67616d00001e0236c5417732e53e23cb219246
+Lounge Act - Nirvana | https://open.spotify.com/track/1o5jmMhhk2UZ9YP1X5fXfj | https://i.scdn.co/image/ab67616d00001e02fbc71c99f9c1296c56dd51b6
+Lithium - Nirvana | https://open.spotify.com/track/26D1PRJjD9Jj1JGRk88KVc | https://i.scdn.co/image/ab67616d00001e0228a90d00a2819504364880e4
+Pájaros de fuego - Los Tres | https://open.spotify.com/track/7qXsSruTL4u0X30bHMmaAT | https://i.scdn.co/image/ab67616d00001e02c90c7ca59a3055ba78ae5d89
+Se Remata el Siglo - Los Tres | https://open.spotify.com/track/2mYdt2MYGOouiVC1ZliGkR | https://i.scdn.co/image/ab67616d00001e025751046ec855061a2f347960
+El Aval - Los Tres | https://open.spotify.com/track/1ysWzLwrIOmG33G5YFv0f0 | https://i.scdn.co/image/ab67616d00001e025751046ec855061a2f347960
+Gato por Liebre - Los Tres | https://open.spotify.com/track/0Q3UtPKVDy2MYZJXjkPYmK | https://i.scdn.co/image/ab67616d00001e025751046ec855061a2f347960
+No Sabes Que Desperdicio Tengo en el Alma - Los Tres | https://open.spotify.com/track/2SJZdhRHQEICu2dbzRPKpa | https://i.scdn.co/image/ab67616d00001e025751046ec855061a2f347960
+Dos en Uno - Los Tres | https://open.spotify.com/track/2scqDZ1HhD2klXQpv1Qzqb | https://i.scdn.co/image/ab67616d00001e0278310de37af0875569acc411
+Hojas de Te - Los Tres | https://open.spotify.com/track/70EgRDKkzHbeSIL8EgbL2Z | https://i.scdn.co/image/ab67616d00001e0278310de37af0875569acc411
+La Espada & la Pared - Los Tres | https://open.spotify.com/track/3E5wpa4PEgtP6iHVzpIYS9 | https://i.scdn.co/image/ab67616d00001e0278310de37af0875569acc411
+Tirate - Los Tres | https://open.spotify.com/track/5u6AzESv0MYzBE1ZBrY20V | https://i.scdn.co/image/ab67616d00001e0278310de37af0875569acc411
+La Primera Vez - Unplugged Version - Los Tres | https://open.spotify.com/track/3Pe89MiOWvjgfZ2t69JCtp | https://i.scdn.co/image/ab67616d00001e02baa83398c8be9f4929c2a72e
+He Barrido el Sol - Unplugged Version - Los Tres | https://open.spotify.com/track/4kEC1SCVFZkAccbN3NyjQz | https://i.scdn.co/image/ab67616d00001e02baa83398c8be9f4929c2a72e
+The Spins - Mac Miller, Empire Of The Sun | https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh | https://i.scdn.co/image/ab67616d00001e02463d73e65c7b95a17898388b
+Circles - Mac Miller | https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT | https://i.scdn.co/image/ab67616d00001e02d9d8f1a08476cd347fbea313
+Blue World - Mac Miller | https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5 | https://i.scdn.co/image/ab67616d00001e02d9d8f1a08476cd347fbea313
+Come Back to Earth - Mac Miller | https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR | https://i.scdn.co/image/ab67616d00001e02175c577a61aa13d4fb4b6534
+Hurt Feelings - Mac Miller | https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8 | https://i.scdn.co/image/ab67616d00001e02175c577a61aa13d4fb4b6534
+Ladders - Mac Miller | https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI | https://i.scdn.co/image/ab67616d00001e02175c577a61aa13d4fb4b6534
+Small Worlds - Mac Miller | https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2 | https://i.scdn.co/image/ab67616d00001e02175c577a61aa13d4fb4b6534
+100 Grandkids - Mac Miller | https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb | https://i.scdn.co/image/ab67616d00001e02ee0f38410382a255e4fb15f4
+Fight the Feeling (feat. Kendrick Lamar & Iman Omari) - Mac Miller, Kendrick Lamar, Iman Omari | https://open.spotify.com/track/0jFxJ1US3dmwQn7DJi269h | https://i.scdn.co/image/ab67616d00001e028e2a7197dbab728566059ebb
+People Under The Stairs - Mac Miller | https://open.spotify.com/track/4eVXCp16ydaQq9yugTAykp | https://i.scdn.co/image/ab67616d00001e02c8a77225ad852699c908ac4b
+The Scoop On Heaven - Mac Miller | https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG | https://i.scdn.co/image/ab67616d00001e02c8a77225ad852699c908ac4b
+That Was Just Your Life - Metallica | https://open.spotify.com/track/2otSugsyrMFRi7ohdeB635 | https://i.scdn.co/image/ab67616d00001e02dfe44d577f07e08564ec73ed
+Brain Stew - Green Day | https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa | https://i.scdn.co/image/ab67616d00001e02ac9a652335cf34de9a65292a
+Castaway - Green Day | https://open.spotify.com/track/0hTFEWK4Rso35cjOlvZTHg | https://i.scdn.co/image/ab67616d00001e026869f1cd33bf72e00313520d
+Waiting - Green Day | https://open.spotify.com/track/390SemxFYgPZ3FfGVqiIqt | https://i.scdn.co/image/ab67616d00001e026869f1cd33bf72e00313520d
+Bobby Sox - Green Day | https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl | https://i.scdn.co/image/ab67616d00001e02aace4af75c513a4ca2fd74c5
+One Eyed Bastard - Green Day | https://open.spotify.com/track/3DFEPRUIPY1jszRZR5jHNu | https://i.scdn.co/image/ab67616d00001e02aace4af75c513a4ca2fd74c5
+1981 - Green Day | https://open.spotify.com/track/5p5lAB6YJioo8gJIck84JJ | https://i.scdn.co/image/ab67616d00001e02aace4af75c513a4ca2fd74c5
+86 - Green Day | https://open.spotify.com/track/4bOgWjaOVTvhyRpvLxFeEm | https://i.scdn.co/image/ab67616d00001e02ac9a652335cf34de9a65292a
+Welcome to Paradise - Green Day | https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt | https://i.scdn.co/image/ab67616d00001e02db89b08034de626ebee6823d
+When I Come Around - Green Day | https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz | https://i.scdn.co/image/ab67616d00001e02db89b08034de626ebee6823d
+B.Y.O.B. - System Of A Down | https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md | https://i.scdn.co/image/ab67616d00001e02c65f8d04502eeddbdd61fa71
+Cigaro - System Of A Down | https://open.spotify.com/track/47EqCQZG5v4o0WFMufGf5S | https://i.scdn.co/image/ab67616d00001e02c65f8d04502eeddbdd61fa71
+Violent Pornography - System Of A Down | https://open.spotify.com/track/249Z7XT6mf8B2zuI0RaeS0 | https://i.scdn.co/image/ab67616d00001e02c65f8d04502eeddbdd61fa71
+Give It Back - Hoobastank | https://open.spotify.com/track/1z5UQ36z5fHX44PiDfqA2Q | https://i.scdn.co/image/ab67616d00001e028a48864289dc2588f13274ec
+Crawling In The Dark - Hoobastank | https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi | https://i.scdn.co/image/ab67616d00001e028a48864289dc2588f13274ec
+Running Away - Hoobastank | https://open.spotify.com/track/6xdSzlVVKW3fQidPxBImTG | https://i.scdn.co/image/ab67616d00001e028a48864289dc2588f13274ec
+Jigsaw Falling Into Place - Radiohead | https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV | https://i.scdn.co/image/ab67616d00001e02de3c04b5fc750b68899b20a9
+Emily - Rough Mix - My Chemical Romance | https://open.spotify.com/track/3MFiumsps05X2QUgMeBmUw | https://i.scdn.co/image/ab67616d00001e0282dbd6ac465b4ac0d7067add
+The Less I Know The Better - Tame Impala | https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ | https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79
+The Moment - Tame Impala | https://open.spotify.com/track/1UYj8qTWjneZJDVjUMwMub | https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79
+New Person, Same Old Mistakes - Tame Impala | https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D | https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79
+LAST DINOSAUR - the pillows | https://open.spotify.com/track/065GxYGKiZ011pvr6VhT1b | https://i.scdn.co/image/ab67616d00001e02d6907c6ad937536e8d18ce73
+Instant Music - the pillows | https://open.spotify.com/track/2lsCCWvxb2Kjjbqb6EJdNG | https://i.scdn.co/image/ab67616d00001e026fd14f93d32fe39d42851aa7
+Letterbomb - Green Day | https://open.spotify.com/track/58OArRtYZvODKmS0VohKPv | https://i.scdn.co/image/ab67616d00001e020436e7b2f1dc434862bb8354
+Like That - Future, Metro Boomin, Kendrick Lamar | https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf | https://i.scdn.co/image/ab67616d00001e02cec3fc072352b5f4f637d9fa
+The Pretender - Foo Fighters | https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34 | https://i.scdn.co/image/ab67616d00001e029d957247c6c610cb7c4da1c5
+DOA - Foo Fighters | https://open.spotify.com/track/1QZFn6QUNHfCp8s06C91hw | https://i.scdn.co/image/ab67616d00001e0250d3fff0dc3d9b55f164d8d6
+Best of You - Foo Fighters | https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp | https://i.scdn.co/image/ab67616d00001e0250d3fff0dc3d9b55f164d8d6
+Figure.09 - Linkin Park | https://open.spotify.com/track/0rPTPahzhGx9LSzI8XX5OM | https://i.scdn.co/image/ab67616d00001e028b5b6fa1326d996181e71dd7
+One Step Closer - Linkin Park | https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4 | https://i.scdn.co/image/ab67616d00001e02e2f039481babe23658fc719a
+Given Up - Linkin Park | https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5 | https://i.scdn.co/image/ab67616d00001e026e996745f2c7b8036abef213
+Good Things Go - Linkin Park | https://open.spotify.com/track/6aCBjSb87RizdH8lVBIRW7 | https://i.scdn.co/image/ab67616d00001e028be9eeb8f19696ef2fd3b6b4
+Lucky - Radiohead | https://open.spotify.com/track/14xj58ZexBaEaHARb11Cqs | https://i.scdn.co/image/ab67616d00001e02c8b444df094279e70d0ed856
+Just - Radiohead | https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR | https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12
+All Falls Down - Kanye West, Syleena Johnson | https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9 | https://i.scdn.co/image/ab67616d00001e0225b055377757b3cdd6f26b78
+Through The Wire - Kanye West | https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo | https://i.scdn.co/image/ab67616d00001e0225b055377757b3cdd6f26b78
+How Sweet - NewJeans | https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH | https://i.scdn.co/image/ab67616d00001e02b657fbb27b17e7bd4691c2b2
+Apple - Charli xcx | https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o | https://i.scdn.co/image/ab67616d00001e02f88b43d15fd14e9525338b59
+Cracker Island (feat. Thundercat) - Gorillaz, Thundercat | https://open.spotify.com/track/4J3I4jpAtNjsclcs99jzeF | https://i.scdn.co/image/ab67616d00001e0219707804f73dc50f7a29cd86
+November Has Come - Gorillaz, MF DOOM | https://open.spotify.com/track/6lrDckuosGpwEHtm1hHBcf | https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358
+19-2000 - Gorillaz, Miho Hatori, Tina Weymouth | https://open.spotify.com/track/71koAFCnGnugRdGIDfS7f4 | https://i.scdn.co/image/ab67616d00001e02f6c46838e4425ea96e2562fe
+Lavender Buds - MF DOOM | https://open.spotify.com/track/5j42r1PmIbM6fZSe11O08C | https://i.scdn.co/image/ab67616d00001e02810322d575e5a2ea235671f9
+Run - Joji | https://open.spotify.com/track/2r8RwegunaKMYW4pDFEMKM | https://i.scdn.co/image/ab67616d00001e02f733e50079838090eebc3fe4
+Tokyo Drift (Fast & Furious) - From "The Fast And The Furious: Tokyo Drift" Soundtrack - Teriyaki Boyz | https://open.spotify.com/track/0upFohXrGxIIAjyaJmCkMU | https://i.scdn.co/image/ab67616d00001e02aac3b3863e8f7a43a9b65a19
+Attracted to You - PinkPantheress | https://open.spotify.com/track/4fPjI40ElIwJQ4DJJxSCOe | https://i.scdn.co/image/ab67616d00001e0213fcbf9397f1910b96afbac6
+Borderline - Tame Impala | https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr | https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49
+i n t e r l u d e - J. Cole | https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0 | https://i.scdn.co/image/ab67616d00001e0210e6745bb2f179dd3616b85f
+Can't Stop - Red Hot Chili Peppers | https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx | https://i.scdn.co/image/ab67616d00001e02de1af2785a83cc660155a0c4
+Scar Tissue - Red Hot Chili Peppers | https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1 | https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595
+Dark Necessities - Red Hot Chili Peppers | https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt | https://i.scdn.co/image/ab67616d00001e0258406b3f1ac3ceaff7a64fef
+highway 95 - Baby Keem | https://open.spotify.com/track/2E4INiVkDRBXXkFL4kB1Vk | https://i.scdn.co/image/ab67616d00001e02a97160f8731efb13153b358e
+Passionfruit - Drake | https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz | https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700
+The Bad Thing - Arctic Monkeys | https://open.spotify.com/track/4N2yjWLIxZjOXDrCu2VlJe | https://i.scdn.co/image/ab67616d00001e02b1f8da74f225fa1225cdface
+Brianstorm - Arctic Monkeys | https://open.spotify.com/track/7f9I5WdyXm5q1XqnSYgQZb | https://i.scdn.co/image/ab67616d00001e02b1f8da74f225fa1225cdface
+Cornerstone - Arctic Monkeys | https://open.spotify.com/track/5bsnLiT00hG37qd8p2jdVl | https://i.scdn.co/image/ab67616d00001e02f65d720a5d70dbb93e96d528
+The Trooper - 2015 Remaster - Iron Maiden | https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF | https://i.scdn.co/image/ab67616d00001e022277d1a849a63c7075ec38ff
+Timber - Pitbull, Kesha | https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS | https://i.scdn.co/image/ab67616d00001e022ffc2c580b6595a3e675a730
+Midnight City - M83 | https://open.spotify.com/track/6GyFP1nfCDB8lbD2bG0Hq9 | https://i.scdn.co/image/ab67616d00001e0262100064780b1d919a95fcf4
+the reaper - keshi | https://open.spotify.com/track/4vHoOPIlILceWMPGY5XEmJ | https://i.scdn.co/image/ab67616d00001e0294237be74edae41560152bce
+Love Buzz - Nirvana | https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ | https://i.scdn.co/image/ab67616d00001e0297507fd22fb690cb9085a864
+One - Metallica | https://open.spotify.com/track/5IX4TbIR5mMHGE4wiWwKW0 | https://i.scdn.co/image/ab67616d00001e027c05e69390ab7c628a83cee7
+Ride The Lightning - Remastered - Metallica | https://open.spotify.com/track/4d50VgYqfw1Rd0knRRL3qv | https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933
+For Whom The Bell Tolls - Remastered - Metallica | https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v | https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933
+Last Nite - The Strokes | https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA | https://i.scdn.co/image/ab67616d00001e02a388a3f20d1bf2123249cc79
+Mona Lisa (Spider-Man: Across the Spider-Verse) - Dominic Fike | https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk | https://i.scdn.co/image/ab67616d00001e02f4e6ed5d6b134635c45f8602
+Rhymes Like Dimes - MF DOOM, DJ Cucumber Slice | https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ | https://i.scdn.co/image/ab67616d00001e026ce90ec627a0198a8efd127f
+Bad Habit - Steve Lacy | https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy | https://i.scdn.co/image/ab67616d00001e026938311000a0e494a26986e5
+Who's Ready for Tomorrow - RAT BOY, IBDY | https://open.spotify.com/track/4mn5HdatHKN7iFGDes9G8i | https://i.scdn.co/image/ab67616d00001e02a91a5b301baac1f46e6f30eb
+Everybody Talks - Neon Trees | https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq | https://i.scdn.co/image/ab67616d00001e024a6c0376235e5aa44e59d2c2
+Devil in Your Heart - SiM | https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI | https://i.scdn.co/image/ab67616d00001e024ce449dc10fbaad2523806d6
+Selfless - The Strokes | https://open.spotify.com/track/2t0wwvR15fc3K1ey8OiOaN | https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39
+Not The Same Anymore - The Strokes | https://open.spotify.com/track/5ncofiedz9Ej6YkvvXMKVn | https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39
+Why Are Sundays So Depressing - The Strokes | https://open.spotify.com/track/1aOxOpH4AkGAd8OMrKjyNY | https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39
+This Charming Man - 2011 Remaster - The Smiths | https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ | https://i.scdn.co/image/ab67616d00001e0246b017e0c96e4186e82df085
+Under Cover of Darkness - The Strokes | https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c | https://i.scdn.co/image/ab67616d00001e02397d02cfe1aab2923f9d1697
+Slime You Out (feat. SZA) - Drake, SZA | https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH | https://i.scdn.co/image/ab67616d00001e027d384516b23347e92a587ed1
+I Write Sins Not Tragedies - Panic! At The Disco | https://open.spotify.com/track/5cY8y2XgOfkAh4kSWLFKkz | https://i.scdn.co/image/ab67616d00001e02db91b52ea052f3a6ad7bf8b1
+But It's Better If You Do - Panic! At The Disco | https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK | https://i.scdn.co/image/ab67616d00001e023ab3ff3559d2664560e1fdb4
+Dumb - Nirvana | https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q | https://i.scdn.co/image/ab67616d00001e02c4f52ef8782f0e8ede4c1aaf
+Club Can't Handle Me (feat. David Guetta) - Flo Rida, David Guetta | https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y | https://i.scdn.co/image/ab67616d00001e021dec5cdebb0ea9b3df5fd0ca
+Small girl (feat. D.O.) - Lee Young Ji, D.O. | https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5 | https://i.scdn.co/image/ab67616d00001e02aa8e7da62fbfae5cb65f8e55
+When The Sun Goes Down - Arctic Monkeys | https://open.spotify.com/track/2zzLRQ78kKfPTx8FJQCdC2 | https://i.scdn.co/image/ab67616d00001e026b3fa88bdd4af566fbbf2bbf
+Cookie - NewJeans | https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg | https://i.scdn.co/image/ab67616d00001e029d28fd01859073a3ae6ea209
+Animal I Have Become - Three Days Grace | https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b | https://i.scdn.co/image/ab67616d00001e02e773763694ac5eb7f2aa0a37
+Time of Dying - Three Days Grace | https://open.spotify.com/track/7piw04hPQZ1OHZ9Fq9JOXR | https://i.scdn.co/image/ab67616d00001e02e773763694ac5eb7f2aa0a37
+Don't Look Back in Anger - Remastered - Oasis | https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd | https://i.scdn.co/image/ab67616d00001e0285e5dcc05cc216a10f141480
+Acquiesce - Remastered - Oasis | https://open.spotify.com/track/11JIdNpBagg6G0NHLDm2v2 | https://i.scdn.co/image/ab67616d00001e0285e5dcc05cc216a10f141480
+Some Might Say - Remastered - Oasis | https://open.spotify.com/track/15J419FaKaBT7bYJmpLDpf | https://i.scdn.co/image/ab67616d00001e0285e5dcc05cc216a10f141480
+Morning Glory - Remastered - Oasis | https://open.spotify.com/track/0awZMpokrVSdvtYe1MdcWM | https://i.scdn.co/image/ab67616d00001e0285e5dcc05cc216a10f141480
+Slide Away - Remastered - Oasis | https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa | https://i.scdn.co/image/ab67616d00001e02580abb98fc826cfe362a65cb
+Love Hurts - Incubus | https://open.spotify.com/track/5JTgqOeHWg4bxMZYMRTE4H | https://i.scdn.co/image/ab67616d00001e0258f4ef37dc0cdb68f858808d
+My Sacrifice - Creed | https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR | https://i.scdn.co/image/ab67616d00001e02a32f2ae4dade83e0d7a294f4
+One Last Breath - Creed | https://open.spotify.com/track/42T2QQv3xgBlpQxaSP7lnK | https://i.scdn.co/image/ab67616d00001e02a32f2ae4dade83e0d7a294f4
+Jesus of Suburbia - Green Day | https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr | https://i.scdn.co/image/ab67616d00001e0208a1b1e0674086d3f1995e1b
+Whatsername - Green Day | https://open.spotify.com/track/6CVWD0WRqwbR4HsiKHk1j3 | https://i.scdn.co/image/ab67616d00001e0208a1b1e0674086d3f1995e1b
+You Know What They Do to Guys Like Us in Prison - My Chemical Romance | https://open.spotify.com/track/5bTuwAgYUD5MABOIPH8ZMt | https://i.scdn.co/image/ab67616d00001e02cab7ae4868e9f9ce6bdfdf43
+This Love - Maroon 5 | https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF | https://i.scdn.co/image/ab67616d00001e0292f2d790c6a97b195f66d51e
+American Idiot - Green Day | https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj | https://i.scdn.co/image/ab67616d00001e0208a1b1e0674086d3f1995e1b
+Life is a Highway - Rascal Flatts | https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG | https://i.scdn.co/image/ab67616d00001e02aa6b03f85a0f2cb16e88ec0c
+Overcompensate - Twenty One Pilots | https://open.spotify.com/track/1LAlLBTGBUO0MDA8IbSysd | https://i.scdn.co/image/ab67616d00001e02cc94dd4730132ccfbd617bf9
+La Voz de los '80 - Los Prisioneros | https://open.spotify.com/track/0VvwpKqD7cOYubrK030fGR | https://i.scdn.co/image/ab67616d00001e02a8ff3f9fe5b57f2e0bfd9e05
+Boys Don't Cry - The Cure | https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC | https://i.scdn.co/image/ab67616d00001e02145f62824c79efecf474081f
+Bajan - Pescado Rabioso | https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C | https://i.scdn.co/image/ab67616d00001e0250db5a166ea23d5d6c4cd387
+Las Habladurias del Mundo - Pescado Rabioso | https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b | https://i.scdn.co/image/ab67616d00001e0250db5a166ea23d5d6c4cd387
+High Hopes (feat. Omar Apollo) - Joji, Omar Apollo | https://open.spotify.com/track/6ObrgpMG4oDRavKdfIZFyx | https://i.scdn.co/image/ab67616d00001e028da6404284573219a9b1e2f4
+Them Changes - Thundercat | https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM | https://i.scdn.co/image/ab67616d00001e0285c5e6c686ced3e43bae2748
+Pale Blue Eyes - The Velvet Underground | https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb | https://i.scdn.co/image/ab67616d00001e029a2c40b6a1af4a92aac991c5
+Venice Queen - Red Hot Chili Peppers | https://open.spotify.com/track/3ZIw7nCYObqthuWCuDrCu0 | https://i.scdn.co/image/ab67616d00001e02de1af2785a83cc660155a0c4
+Empire State Of Mind - JAŸ-Z, Alicia Keys | https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO | https://i.scdn.co/image/ab67616d00001e02fec1b815bb3c50a64a90fd10
+Billie Jean - Michael Jackson | https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj | https://i.scdn.co/image/ab67616d00001e0232a7d87248d1b75463483df5
+It's Not a Fashion Statement, It's a Deathwish - My Chemical Romance | https://open.spotify.com/track/4fGIqy3bvjX0jz1SJHqjjo | https://i.scdn.co/image/ab67616d00001e02cab7ae4868e9f9ce6bdfdf43
+Nights - Frank Ocean | https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ | https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526
+Bolsa de Mareo - Los Tres | https://open.spotify.com/track/1UbhlpwNlGdM3aOBHsj08v | https://i.scdn.co/image/ab67616d00001e0266edc1d892cd7f7374c14323
+Lady - Hear Me Tonight - Modjo | https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6 | https://i.scdn.co/image/ab67616d00001e0254c5c304064df85d61253ac7
+Magalenha - Sérgio Mendes | https://open.spotify.com/track/36SJ7ZFx8J1f1RsewmUwMX | https://i.scdn.co/image/ab67616d00001e02b415fc6505fe00219d017df4
+Baianá - Barbatuques | https://open.spotify.com/track/2SKia3gEJq8boKbNQtwXIK | https://i.scdn.co/image/ab67616d00001e0285f569e947dcc39a5ba487ee
+Smile - Weezer | https://open.spotify.com/track/3dYi32XQ9mVplNKDcWp59K | https://i.scdn.co/image/ab67616d00001e021e0dc5baaabda304b0ad1815
+Hash Pipe - Weezer | https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn | https://i.scdn.co/image/ab67616d00001e021e0dc5baaabda304b0ad1815
+1979 - Remastered 2012 - The Smashing Pumpkins | https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1 | https://i.scdn.co/image/ab67616d00001e02431ac6e6f393acf475730ec6
+Papercut - Linkin Park | https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1 | https://i.scdn.co/image/ab67616d00001e02e2f039481babe23658fc719a
+No thank you - Nanahoshi Orchestra | https://open.spotify.com/track/4Z0b3GZxVroMKtCgREWEjR | https://i.scdn.co/image/ab67616d00001e027c3eaf13f68b3034c850d850
+Trade Mistakes - Panic! At The Disco | https://open.spotify.com/track/62lc21zAcKWs11pbSOabO9 | https://i.scdn.co/image/ab67616d00001e02d8f40ad88ed77a939b716d19
+Shape Of My Heart - Sting | https://open.spotify.com/track/5TrvGxuqaYKsF7C0NfrLrY | https://i.scdn.co/image/ab67616d00001e026f2044d1a83fa2989f958244
+Smile - Lily Allen | https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0 | https://i.scdn.co/image/ab67616d00001e02f44ea7ef8d5c793399bae7af
+Routines In The Night - Twenty One Pilots | https://open.spotify.com/track/4bDIAWaOBGAAk95nyXI6zJ | https://i.scdn.co/image/ab67616d00001e02cc94dd4730132ccfbd617bf9
+DArkSide - Bring Me The Horizon | https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE | https://i.scdn.co/image/ab67616d00001e0201aa13aa3a7c9f2df2db0d0f
+Sleepwalking - Bring Me The Horizon | https://open.spotify.com/track/0gchQwxmBWj5no8NJ8b2yH | https://i.scdn.co/image/ab67616d00001e02566acaba72c5509e3887c4b0
+About A Girl - Nirvana | https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok | https://i.scdn.co/image/ab67616d00001e0297507fd22fb690cb9085a864
+Gold Medal Ribbon - Pierce The Veil | https://open.spotify.com/track/0yq3IiS6IbPFmqLN46WxiG | https://i.scdn.co/image/ab67616d00001e02feef5b9537d7b52555a42f17
+Starlight - STARSET | https://open.spotify.com/track/2LWkwN5Kt8mebRFBee4EGX | https://i.scdn.co/image/ab67616d00001e02a51a854b037ead2c9b7e25d3
+Strategy - TWICE | https://open.spotify.com/track/6Q3lFQgpvhA9VApFKLFZtZ | https://i.scdn.co/image/ab67616d00001e024dcb6c5df15cf74596ab25a4
+ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero - MAXIMUM THE HORMONE | https://open.spotify.com/track/4vLhi74fctCnK4OFbiiS6P | https://i.scdn.co/image/ab67616d00001e026686bf5b2e62ef26ec0d0ea4
+"F" - MAXIMUM THE HORMONE | https://open.spotify.com/track/51br5d5nIel2Dm0PNP5X4N | https://i.scdn.co/image/ab67616d00001e02ea3e34070bae7b6416dcaf48
+asphyxia - Cö shu Nie | https://open.spotify.com/track/3f3FDZajRpcLQGln7OZqdi | https://i.scdn.co/image/ab67616d00001e02b868bc52627b90ed648b2092
+God knows... - 涼宮ハルヒ (CV.平野 綾) | https://open.spotify.com/track/4YnXlBbFnMJf6qiO2LQMlU | https://i.scdn.co/image/ab67616d00001e02a589d0d3ca8a9e0adc620c1c
+Just Awake - Fear\, and Loathing in Las Vegas | https://open.spotify.com/track/1Gqpa08T7eBAvPQj9O9L2Q | https://i.scdn.co/image/ab67616d00001e024ae0119a1472e3d1e83206c5
+Ludens - Bring Me The Horizon | https://open.spotify.com/track/7ENhaL8EhbljVeVvz4AuYw | https://i.scdn.co/image/ab67616d00001e0220d7a0f0930320a521aef64d
+Better Off Dead - Sleeping With Sirens | https://open.spotify.com/track/4MjJlPgUYMQjvHOQq0uvOv | https://i.scdn.co/image/ab67616d00001e02e64c54b4ff12ae9e458e8ba0
+A Tout Le Monde - Remastered 2004 - Megadeth | https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM | https://i.scdn.co/image/ab67616d00001e023171798d5cfc745f0ba24c84
+Pursuit Of Happiness - Extended Steve Aoki Remix - Kid Cudi, MGMT, Ratatat, Steve Aoki | https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ | https://i.scdn.co/image/ab67616d00001e02fe7908b7666690bf4e83ce14
+Saturnz Barz (feat. Popcaan) - Gorillaz, Popcaan | https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL | https://i.scdn.co/image/ab67616d00001e02a5952c0e2e649f588603b743
+Late Night Talking - Harry Styles | https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK | https://i.scdn.co/image/ab67616d00001e0282ce362511fb3d9dda6578ee
+venus fly trap - brakence | https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu | https://i.scdn.co/image/ab67616d00001e02d2be3bab02c5bd68b1b5430d
+POISON FLIP - LeeJi Remix - berryblue, LeeJi | https://open.spotify.com/track/6zVbbGP5fZU4ELwjNyPf4k | https://i.scdn.co/image/ab67616d00001e0235e4e4c3ba5906d638bfaf89
+Interstate Love Song - 2019 Remaster - Stone Temple Pilots | https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3 | https://i.scdn.co/image/ab67616d00001e02fc90a8ed9924435d62235aa8
+Two Time - Jack Stauber's Micropop | https://open.spotify.com/track/7JTGwb6ug0z15F5roNLE0s | https://i.scdn.co/image/ab67616d00001e02b32931fdae5fca7847c21323
+Is It True - Tame Impala | https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d | https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49
+SPAGHETTI - LE SSERAFIM, j-hope | https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI | https://i.scdn.co/image/ab67616d00001e026c4a726c271daf4a4b97e35b
+CRAZY - LE SSERAFIM | https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS | https://i.scdn.co/image/ab67616d00001e0231cc95b28680b61772da876f
+HOT - LE SSERAFIM | https://open.spotify.com/track/24Y63uAvj6Oc9jGuTlhlgf | https://i.scdn.co/image/ab67616d00001e022e573f25565a8c2d1ae5e4d6
+Smart - LE SSERAFIM | https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ | https://i.scdn.co/image/ab67616d00001e02f2bb724ff4fcbf7bc7b6e944
+Illegal - PinkPantheress | https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG | https://i.scdn.co/image/ab67616d00001e022a6a5bd7ec690d91a384245d
+Love Me Like This - NMIXX | https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m | https://i.scdn.co/image/ab67616d00001e024b32002f8a5e4ee2a5db5ace
+TIC TIC (feat. Pabllo Vittar) - NMIXX, Pabllo Vittar | https://open.spotify.com/track/2ZBMbueQLQZAUHio2jplVK | https://i.scdn.co/image/ab67616d00001e026234fb43ba0408012edf6a9a
+Gee - Girls' Generation | https://open.spotify.com/track/0t7kjpVLgOYITrSfFCoBEA | https://i.scdn.co/image/ab67616d00001e029b57e9b31c831fb2137c38e2
+Inside of me - TWICE | https://open.spotify.com/track/2Py38uCGjUARv3r7KQjcM8 | https://i.scdn.co/image/ab67616d00001e0278e8c649cad4b29b6044737f
+Colorblind - Movements | https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA | https://i.scdn.co/image/ab67616d00001e02222a7f5b3077122bca25eef0
+Loser - Tame Impala | https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR | https://i.scdn.co/image/ab67616d00001e02208500450dcd0fd294d7bd3b
+Reaktion - Rezodrone, Alexei Brayko | https://open.spotify.com/track/6itgsLVsGNJb0zXofIzD25 | https://i.scdn.co/image/ab67616d00001e02247bf1341aea44ca29427f44
+Cry a River - Alter Bridge | https://open.spotify.com/track/20Ic0FK6KWmx69J4o0MkpF | https://i.scdn.co/image/ab67616d00001e02382ee9dcc9d08cb3d58f434e
+Bleed It Dry - Alter Bridge | https://open.spotify.com/track/18zy118gY1GrWiNSzLUCfZ | https://i.scdn.co/image/ab67616d00001e02382ee9dcc9d08cb3d58f434e
+Open Your Eyes - Alter Bridge | https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n | https://i.scdn.co/image/ab67616d00001e02bc7ddb77993dd1d8d19c22a2
+give up - miraie, angelus, mental | https://open.spotify.com/track/1iFhWpuQ8BJMOCybiLwxRu | https://i.scdn.co/image/ab67616d00001e020972fe4d80f82030ab30bf16
+Lolicons - miraie | https://open.spotify.com/track/5WSQfGvAiIvspSmHod8foI | https://i.scdn.co/image/ab67616d00001e0228c524d58d41ca34e1801f2b
+745 sticky - 100 gecs, Laura Les, Dylan Brady | https://open.spotify.com/track/2fwz9mBaELJCzXuEEEe35Y | https://i.scdn.co/image/ab67616d00001e024123c0f9b6689205d20f350f
+mememe - 100 gecs | https://open.spotify.com/track/39Pudjd7JS8NosYN24m7Hc | https://i.scdn.co/image/ab67616d00001e02140bf64ac9cddf05beaff312
+The Most Wanted Person In The United States - 100 gecs | https://open.spotify.com/track/3txrp0QdO0wiF4yqiofzJv | https://i.scdn.co/image/ab67616d00001e02140bf64ac9cddf05beaff312
+One Million Dollars - 100 gecs | https://open.spotify.com/track/3Cqt1Sg1FYBpUzoXEzf4dD | https://i.scdn.co/image/ab67616d00001e02140bf64ac9cddf05beaff312
+Torture Me (feat. Skrillex) - 100 gecs, Skrillex | https://open.spotify.com/track/3ne63mn2I1EXKi6kwpqq5X | https://i.scdn.co/image/ab67616d00001e0219e5e33fbc27c6d7aa77cf58
+Doritos & Fritos - 100 gecs | https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8 | https://i.scdn.co/image/ab67616d00001e02140bf64ac9cddf05beaff312
+money machine - 100 gecs, Laura Les, Dylan Brady | https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl | https://i.scdn.co/image/ab67616d00001e024123c0f9b6689205d20f350f
+Dumbest Girl Alive - 100 gecs | https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH | https://i.scdn.co/image/ab67616d00001e02140bf64ac9cddf05beaff312
+Music Sounds Better With You - Stardust, Benjamin Diamond, Alan Braxe, Thomas Bangalter | https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt | https://i.scdn.co/image/ab67616d00001e02b98afa12c212cbbda4f1799b
+Heartless - Yameii Online | https://open.spotify.com/track/0p61MmPnj9V4umJTn3zPcD | https://i.scdn.co/image/ab67616d00001e02015477b050253027c9eb875c
+Baby My Phone - Yameii Online | https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8 | https://i.scdn.co/image/ab67616d00001e02d1a93a12fc43df9f2e800da4
+MIGRAINE - WHOKILLEDXIX | https://open.spotify.com/track/0HFX1Lyaeu5i2J1jK5QH3f | https://i.scdn.co/image/ab67616d00001e02841f97fe9e18734e7656453d
+Boom, Boom, Boom, Boom!! - Vengaboys | https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW | https://i.scdn.co/image/ab67616d00001e0250fcab12b2e2e0ee0019ac53
+Up & Down - Vengaboys | https://open.spotify.com/track/3uyJrbOnK7fMunoFjRfsew | https://i.scdn.co/image/ab67616d00001e0250fcab12b2e2e0ee0019ac53
+Animal - Remastered - Pearl Jam | https://open.spotify.com/track/2EzaNI2kE2AoBfJ8mRZLSJ | https://i.scdn.co/image/ab67616d00001e023cd811ba3d8e0b67feb08e75
+PIXELATED KISSES - Joji | https://open.spotify.com/track/79xmZOOB5jkGMgWqI0dSJ9 | https://i.scdn.co/image/ab67616d00001e02e67f061972fef8928e3f2686
+P.J. Soles - 2024 Remaster - Local H | https://open.spotify.com/track/6TxFAB8PgBXnw0gzEuJzcF | https://i.scdn.co/image/ab67616d00001e02ea0068568478613dec16ffd5
+Weatherman - +44 | https://open.spotify.com/track/51lhnVLjDIkxzZYzrBUH5e | https://i.scdn.co/image/ab67616d00001e02a6db79c5b74b97a034857afc
+Awkward Conversations - late night drive home | https://open.spotify.com/track/3AJuNljAt1IdmdRtFYslQj | https://i.scdn.co/image/ab67616d00001e021437744a020aec3dc8039d2a
+If You Can't Hang - Sleeping With Sirens | https://open.spotify.com/track/2Tc9VznHtQUmfOgE3L1RdN | https://i.scdn.co/image/ab67616d00001e02800934f8144df91dae16b6e4
+Girl I Know - Avenged Sevenfold | https://open.spotify.com/track/7CAdycFxxvZqfSKNsdcVQB | https://i.scdn.co/image/ab67616d00001e02de836b5aac8a0b8b988df7d4
+Fat Lip - Sum 41 | https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN | https://i.scdn.co/image/ab67616d00001e029a482180e6a306229bff49dc
+Emergency - Paramore | https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo | https://i.scdn.co/image/ab67616d00001e025cab62839794c2cc3d6a135b
+All I Want - A Day To Remember | https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r | https://i.scdn.co/image/ab67616d00001e029233270031da763169e5f96c
+Half-Truism - The Offspring | https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3 | https://i.scdn.co/image/ab67616d00001e02890ce61533a89e00ce593fcb
+Dear Maria, Count Me In - All Time Low | https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe | https://i.scdn.co/image/ab67616d00001e02c8913cd7b91bb7f6bbbec305
+Dez Moines - The Devil Wears Prada | https://open.spotify.com/track/05NRKMTDuXA5ehLLe0wtL0 | https://i.scdn.co/image/ab67616d00001e02584436351167d3a7fa27376f
+Wait and Bleed - Slipknot | https://open.spotify.com/track/15DLl1r2zi07Ssq5RT1yT0 | https://i.scdn.co/image/ab67616d00001e0281e0d9617e70d75e7ae11fa6
+prick - glaive | https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k | https://i.scdn.co/image/ab67616d00001e02862ff97ac95d9bd909a94061
+'Merican - Descendents | https://open.spotify.com/track/2xcivsD9oKfeKyIv3kf5IX | https://i.scdn.co/image/ab67616d00001e021a4a651e2bdc86285a22968d
+That's What You Get - Paramore | https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ | https://i.scdn.co/image/ab67616d00001e0269966efa45b125ed6711b43c
+Pretty Fly (For A White Guy) - The Offspring | https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA | https://i.scdn.co/image/ab67616d00001e02cbd2ee7dff77bfb2b5f0af52
+Scars - Papa Roach | https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD | https://i.scdn.co/image/ab67616d00001e029d8c8d4e72cab2f00e0686f5
+Dance, Dance - Fall Out Boy | https://open.spotify.com/track/4QIAVbGpeb5RdAGW66kY2h | https://i.scdn.co/image/ab67616d00001e02d9416936eba3b0bd8351b056
+Thnks fr th Mmrs - Fall Out Boy | https://open.spotify.com/track/18GC3F8YPGB8CePXcTUizQ | https://i.scdn.co/image/ab67616d00001e02a2acd73823d95cb66d0d98fd
+1985 - Bowling For Soup | https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ | https://i.scdn.co/image/ab67616d00001e02f9b3ece3271d3a5fa73d3759
+The Words "Best Friend" Become Redefined - Chiodos | https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3 | https://i.scdn.co/image/ab67616d00001e02565a166b9f44fc0250f5769e
+All These Things I Hate (Revolve Around Me) - Bullet For My Valentine | https://open.spotify.com/track/6XimI1O15wpfwUdrCnlrxo | https://i.scdn.co/image/ab67616d00001e0254113df5ab7a69df8a44c37e
+When Your Heart Stops Beating - +44 | https://open.spotify.com/track/6yT4ww7r7wDBlwMDUazx0U | https://i.scdn.co/image/ab67616d00001e02a6db79c5b74b97a034857afc
+Whiskey In The Jar - Metallica | https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8 | https://i.scdn.co/image/ab67616d00001e0275e6375e11550746705a9645
+Know Your Enemy - Rage Against The Machine | https://open.spotify.com/track/1XTGyfJeMiZXrZ1W3NolcB | https://i.scdn.co/image/ab67616d00001e0254ab617bc2d4974ab6ffbece
+Happy Song - Bring Me The Horizon | https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf | https://i.scdn.co/image/ab67616d00001e0290b88187a9831d91f2438927
+We're All To Blame - Sum 41 | https://open.spotify.com/track/2cYoayTRed9m3scuQzKq8Z | https://i.scdn.co/image/ab67616d00001e02cb38dd3dba8a0801bc1ee03a
+No Reason - Sum 41 | https://open.spotify.com/track/1lASDtTqKAfsnD6hixGKtz | https://i.scdn.co/image/ab67616d00001e02cb38dd3dba8a0801bc1ee03a
+The Hell Song - Sum 41 | https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD | https://i.scdn.co/image/ab67616d00001e02d6176a711e031d6522840c52
+Eyeless - Slipknot | https://open.spotify.com/track/2yYX7KbfWZrezWVW1vN3iz | https://i.scdn.co/image/ab67616d00001e0281e0d9617e70d75e7ae11fa6
+Vermilion - Slipknot | https://open.spotify.com/track/0fX9KPa0i9RGDI59gI90i9 | https://i.scdn.co/image/ab67616d00001e026b3463e7160d333ada4b175a
+Everlong - Foo Fighters | https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk | https://i.scdn.co/image/ab67616d00001e024bc9bcdbdc9ac34e37d8b6bb
+You Only Live Once - The Strokes | https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV | https://i.scdn.co/image/ab67616d00001e026898a982ff3c6049ba52586c
+Trying Your Luck - The Strokes | https://open.spotify.com/track/37cb7mzkQKksGm0noGDXeh | https://i.scdn.co/image/ab67616d00001e02a388a3f20d1bf2123249cc79
+Razorblade - The Strokes | https://open.spotify.com/track/4UF1eupXP9Zz5GpYepyOxI | https://i.scdn.co/image/ab67616d00001e026898a982ff3c6049ba52586c
+Antivist - Bring Me The Horizon | https://open.spotify.com/track/1fUacP7XP697l6ry01oO4d | https://i.scdn.co/image/ab67616d00001e02566acaba72c5509e3887c4b0
+Texas Is Forever - Pierce The Veil | https://open.spotify.com/track/1IwzGX2T7wtTjTerPiO2qQ | https://i.scdn.co/image/ab67616d00001e02feef5b9537d7b52555a42f17
+Deer Dance - System Of A Down | https://open.spotify.com/track/2SpGXD7EbexndFmmThrnsy | https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa
+Tangled In The Great Escape - Pierce The Veil, Jason Butler | https://open.spotify.com/track/7bUFAdnKK8CxEWWyzdopo0 | https://i.scdn.co/image/ab67616d00001e02077cac00c2d9075e6f742570
+Livin' On A Prayer - Bon Jovi | https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF | https://i.scdn.co/image/ab67616d00001e021336b31b6a1799f0de5807ac
+No One Like You - Scorpions | https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg | https://i.scdn.co/image/ab67616d00001e020b0fbaf16e4475ad616b41b8
+Amphetamines (use me) - VIOLENT VIRA | https://open.spotify.com/track/5cB8tmCkOzktCpgzYAZEKi | https://i.scdn.co/image/ab67616d00001e029f02982f64171e634d573b5e
+The Judas Kiss - Metallica | https://open.spotify.com/track/3XLnsk7Xs7ONROfmWTB58u | https://i.scdn.co/image/ab67616d00001e02dfe44d577f07e08564ec73ed
+Phantom Bride - Deftones | https://open.spotify.com/track/33qrQEXQJg4uk6k8fZgoOa | https://i.scdn.co/image/ab67616d00001e02a1de34b79834eddf96f803ff
+Carry on Wayward Son - Kansas | https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw | https://i.scdn.co/image/ab67616d00001e021be40e44db112e123e5e8b51
+Good Girls (Don’t Get Used) - Beach Bunny | https://open.spotify.com/track/2FnrUcdLWId0F13GT32ugT | https://i.scdn.co/image/ab67616d00001e028ec645e15696788c00b51b34
+Caitlyn - Jank | https://open.spotify.com/track/6BzSWeDsh6egbOs57UfrXY | https://i.scdn.co/image/ab67616d00001e02b596a695a40cad073a02f76b
+You're Not Gone, You're Just Dead! - VIOLENT VIRA | https://open.spotify.com/track/4Ymq3fDafANpBmKbbOC0Kt | https://i.scdn.co/image/ab67616d00001e029f02982f64171e634d573b5e
+Flossie Dickey Bounce - Dance Gavin Dance | https://open.spotify.com/track/62HDUXbOuA7dU6IOXCKSqO | https://i.scdn.co/image/ab67616d00001e02dfafd3037eec32d92b0f7d8f
+Cancer - My Chemical Romance | https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG | https://i.scdn.co/image/ab67616d00001e02663b6ce496144fa5c3670ac0
+Under the Bridge - Red Hot Chili Peppers | https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0 | https://i.scdn.co/image/ab67616d00001e02153d79816d853f2694b2cc70
+Bodies - Drowning Pool | https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y | https://i.scdn.co/image/ab67616d00001e0226d45b50f2016fed43d54320
+Mr. Brightside - The Killers | https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B | https://i.scdn.co/image/ab67616d00001e02ccdddd46119a4ff53eaf1f5d
+No Surprises - Radiohead | https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB | https://i.scdn.co/image/ab67616d00001e02c8b444df094279e70d0ed856
+Dive In - Pierce The Veil | https://open.spotify.com/track/6LhGzSZlIGxZpyIXXZn9ZV | https://i.scdn.co/image/ab67616d00001e02feef5b9537d7b52555a42f17
+Helena - My Chemical Romance | https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9 | https://i.scdn.co/image/ab67616d00001e02cab7ae4868e9f9ce6bdfdf43
+Be Quiet and Drive (Far Away) - Deftones | https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD | https://i.scdn.co/image/ab67616d00001e020b1129853982ea17845d4eb6
+Resilience - Pierce The Veil | https://open.spotify.com/track/7vz15aUdNAxBaMKHTLSVmI | https://i.scdn.co/image/ab67616d00001e02088f4eddf3b17fce620764a3
+Rocket Skates - Deftones | https://open.spotify.com/track/6Q7POvDeFGVFDYPmz7huYP | https://i.scdn.co/image/ab67616d00001e0272c2145d48f68917a7361b15
+Paint It, Black - The Rolling Stones | https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8 | https://i.scdn.co/image/ab67616d00001e02bad7062c3fd2f2d037989694
+Welcome Home (Sanitarium) (Remastered) - Metallica | https://open.spotify.com/track/5Nu6hybktveVXtgD7hDLVD | https://i.scdn.co/image/ab67616d00001e022127e0afac383fb73d533a7d
+Suzie Chapstick - Green Day | https://open.spotify.com/track/3SzRlYb9HkQvZhlgotZA8w | https://i.scdn.co/image/ab67616d00001e02aace4af75c513a4ca2fd74c5
+21st Century Breakdown - Green Day | https://open.spotify.com/track/0Qx3WZTUUmcyKR5jCDWojv | https://i.scdn.co/image/ab67616d00001e022598847169c6594d06740da0
+¡Viva La Gloria! - Green Day | https://open.spotify.com/track/6GCWqj9LIltAq1WRCWSUc8 | https://i.scdn.co/image/ab67616d00001e022598847169c6594d06740da0
+21 Guns - Green Day | https://open.spotify.com/track/3IHHqmfKJHyI0obINUdg1W | https://i.scdn.co/image/ab67616d00001e022598847169c6594d06740da0
+¿Viva La Gloria? (Little Girl) - Green Day | https://open.spotify.com/track/27vTPVDVQb9irdnvzJDmY8 | https://i.scdn.co/image/ab67616d00001e022598847169c6594d06740da0
+Longview - Green Day | https://open.spotify.com/track/3LRJbFT9rKoKv4aW7PuBJC | https://i.scdn.co/image/ab67616d00001e02db89b08034de626ebee6823d
+Having a Blast - Green Day | https://open.spotify.com/track/0eUJzAGs9OKSOmLVpsng7e | https://i.scdn.co/image/ab67616d00001e02db89b08034de626ebee6823d
+She - Green Day | https://open.spotify.com/track/4wsQGsdf8D0Bj26cGdvreB | https://i.scdn.co/image/ab67616d00001e02db89b08034de626ebee6823d
+Pulling Teeth - Green Day | https://open.spotify.com/track/5z2XqieaqxpCJc3ntZ6Ye3 | https://i.scdn.co/image/ab67616d00001e02db89b08034de626ebee6823d
+Basket Case - Green Day | https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s | https://i.scdn.co/image/ab67616d00001e02db89b08034de626ebee6823d
+Boulevard of Broken Dreams - Green Day | https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw | https://i.scdn.co/image/ab67616d00001e0297e3ca5aecb464f021c601d5
+Hold the Line - TOTO | https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA | https://i.scdn.co/image/ab67616d00001e02105ef588df1ef91bfa811f94
+Paranoid - Black Sabbath | https://open.spotify.com/track/1jzDzZWeSDBg5fhNc3tczV | https://i.scdn.co/image/ab67616d00001e029683e5d7361bb80bfb00f46d
+Jump - 2015 Remaster - Van Halen | https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j | https://i.scdn.co/image/ab67616d00001e02b414c63fb435b622238c15ed
+Symphony Of Destruction - Remastered 2012 - Megadeth | https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD | https://i.scdn.co/image/ab67616d00001e024be345f026469be09f12a92e
+Peace Sells - Remastered - Megadeth | https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX | https://i.scdn.co/image/ab67616d00001e020f783e735d0f43f071109a90
+Tornado Of Souls - Megadeth | https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ | https://i.scdn.co/image/ab67616d00001e0242be808911785ceb13140edc
+Blah Blah - Joji | https://open.spotify.com/track/42D9aaKTLw47faFhRCQfHF | https://i.scdn.co/image/ab67616d00001e02ba49265ab7b0d9a6fa01ddfa
+eres mis ojos - idealización pasiva del suicidio | https://open.spotify.com/track/724t3MZIBUhlbjjd1x1ezw | https://i.scdn.co/image/ab67616d00001e02949314e06968b6b8f6859664
