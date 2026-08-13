@@ -2,3 +2,6 @@
 
 # credenciales locales
 .env
+
+# configuracion local de herramientas
+.claude/
