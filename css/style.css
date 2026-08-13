@@ -1576,46 +1576,36 @@ body {
 }
 
 @media (max-width: 640px) {
-  .meta-bar {
-    font-size: 15px;
-  }
-
-  .win-titlebar {
-    font-size: 8px;
-  }
-
-  .pl-row {
-    height: 5.5rem;
-  }
-
-  .game-row {
-    height: 4.5rem;
-  }
-
-  .game-cover {
-    height: 3.5rem;
-  }
-
-  .game-platform span {
-    display: none;
-  }
-
-  .pl-count {
-    display: none;
-  }
-
+  /* ---------------------------------------------------------------------
+     El sitio esta pensado como una pantalla fija de 100vh que no scrollea.
+     En un telefono eso hace que todo lo que no cabe se corte o se solape,
+     asi que aqui la pantalla pasa a scrollear por dentro y se recupera el
+     espacio que se comia el padding.
+     --------------------------------------------------------------------- */
   body {
-    padding: 10px;
-  }
-
-  .about-container {
-    flex-direction: column;
+    padding: 6px;
   }
 
   .crt-screen {
-    padding: 15vh 5vw;
+    padding: 3vh 4vw;
+    overflow-y: auto;
   }
 
+  /* Con el contenedor scrolleando, flex-shrink aplasta estos bloques a
+     altura casi cero y sus hijos se salen encima del nav. */
+  .about-container,
+  .projects-container,
+  .music-container,
+  .filesystem-nav {
+    flex: none;
+  }
+
+  /* margin-top:auto deja de funcionar cuando el contenedor scrollea */
+  .filesystem-nav {
+    margin-top: 20px;
+  }
+
+  /* --- Home --- */
   .profile-row {
     flex-direction: column;
     align-items: center;
@@ -1629,4 +1619,112 @@ body {
   .nav-cards {
     grid-template-columns: 1fr;
   }
+
+  /* --- Sobre mi --- */
+  .about-container,
+  .about-content {
+    flex-direction: column;
+  }
+
+  /* el menu de pestanas pasa de columna lateral a fila superior */
+  .about-vertical-menu {
+    flex-direction: row;
+    justify-content: center;
+    border-right: none;
+    border-bottom: 1px solid var(--accent);
+  }
+
+  .about-sidebar,
+  .about-text-container {
+    flex: none;
+  }
+
+  /* la pagina ya scrollea: la pestana fluye a su altura natural */
+  .tab-content {
+    flex: none;
+    overflow: visible;
+  }
+
+  .about-text-container {
+    min-height: 260px;
+  }
+
+  /* --- Proyectos --- */
+  .projects-container {
+    flex-direction: column;
+  }
+
+  .projects-content,
+  .project-inspector {
+    flex: none;
+  }
+
+  .dos-list {
+    max-height: 38vh;
+  }
+
+  /* la fecha es la columna que colisiona con el nombre en pantalla estrecha */
+  .col-date {
+    display: none;
+  }
+
+  .col-type {
+    text-align: right;
+  }
+
+  /* el inspector aprieta mucho en pantalla estrecha */
+  #inspector-content {
+    padding: 14px;
+  }
+
+  .inspector-desc,
+  .inspector-body {
+    font-size: 16px;
+    line-height: 1.45;
+  }
+
+  .inspector-icon {
+    width: 48px;
+    height: 48px;
+  }
+
+  /* --- Musica y Juegos --- */
+  .win-frame {
+    flex: none;
+    height: 62vh;
+  }
+
+  .meta-bar {
+    font-size: 15px;
+  }
+
+  .win-titlebar {
+    font-size: 8px;
+  }
+
+  .pl-row {
+    height: 5.5rem;
+  }
+
+  .pl-count {
+    display: none;
+  }
+
+  .track-cover {
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+
+  .game-row {
+    height: 4.5rem;
+  }
+
+  .game-cover {
+    height: 3.5rem;
+  }
+
+  .game-platform span {
+    display: none;
+  }
 }
+
