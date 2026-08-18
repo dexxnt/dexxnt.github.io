@@ -288,6 +288,56 @@ body {
   background: rgba(59, 130, 246, 0.1);
 }
 
+/* El GIF de Lain ocupa el aire entre las tarjetas y Filesystem. Su versión
+   ya viene recoloreada para no depender de filtros distintos por navegador. */
+.home-gif {
+  flex: 1 1 170px;
+  min-height: 135px;
+  max-height: 320px;
+  display: grid;
+  place-items: center;
+  margin: 8px 0;
+  overflow: hidden;
+  pointer-events: none;
+  position: relative;
+}
+
+.home-gif picture {
+  display: block;
+  height: 100%;
+  width: auto;
+  max-width: min(100%, 700px);
+  aspect-ratio: 2.2 / 1;
+  overflow: hidden;
+  mix-blend-mode: screen;
+  -webkit-mask-image: radial-gradient(
+    ellipse 50% 48% at 50% 48%,
+    #000 34%,
+    rgba(0, 0, 0, 0.78) 58%,
+    rgba(0, 0, 0, 0.28) 82%,
+    transparent 100%
+  );
+  mask-image: radial-gradient(
+    ellipse 50% 48% at 50% 48%,
+    #000 34%,
+    rgba(0, 0, 0, 0.78) 58%,
+    rgba(0, 0, 0, 0.28) 82%,
+    transparent 100%
+  );
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.home-gif img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+  opacity: 0.6;
+  filter: brightness(0.68) contrast(1.3) saturate(0.84) drop-shadow(0 0 10px rgba(59, 130, 246, 0.3));
+}
+
 .boot-screen {
   position: fixed;
   inset: 0;
@@ -1591,6 +1641,12 @@ body {
     overflow-y: auto;
   }
 
+  /* El marco exterior ya aporta vineta en telefono. La segunda sombra se
+     transparentaba a traves de los paneles y parecia estar superpuesta. */
+  .crt-screen::before {
+    display: none;
+  }
+
   /* Con el contenedor scrolleando, flex-shrink aplasta estos bloques a
      altura casi cero y sus hijos se salen encima del nav. */
   .about-container,
@@ -1618,6 +1674,37 @@ body {
 
   .nav-cards {
     grid-template-columns: 1fr;
+  }
+
+  .home-gif {
+    flex: none;
+    width: 100%;
+    height: 120px;
+    min-height: 120px;
+    margin: 10px 0 2px;
+  }
+
+  .home-gif picture {
+    aspect-ratio: 2.65 / 1;
+    -webkit-mask-image: radial-gradient(
+      ellipse 50% 70% at 50% 48%,
+      #000 34%,
+      rgba(0, 0, 0, 0.78) 58%,
+      rgba(0, 0, 0, 0.28) 84%,
+      transparent 100%
+    );
+    mask-image: radial-gradient(
+      ellipse 50% 70% at 50% 48%,
+      #000 34%,
+      rgba(0, 0, 0, 0.78) 58%,
+      rgba(0, 0, 0, 0.28) 84%,
+      transparent 100%
+    );
+  }
+
+  .home-gif img {
+    opacity: 0.62;
+    filter: brightness(0.78) contrast(1.25) saturate(0.86) drop-shadow(0 0 8px rgba(59, 130, 246, 0.28));
   }
 
   /* --- Sobre mi --- */
@@ -1727,4 +1814,3 @@ body {
     display: none;
   }
 }
-
